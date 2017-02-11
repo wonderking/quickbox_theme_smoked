@@ -8099,7 +8099,7 @@ fieldset[disabled] .btn-info.active {
   border-radius: 2px;
 }
 .table > thead > tr > th, .table > tfoot > tr > th {
-  background-color: #111;
+  background-color: #1d1d1d;
   border-bottom: 0 none;
   color: #fff;
   font-family: "Open Sans","Helvetica Neue",Helvetica,sans-serif;
@@ -13478,7 +13478,7 @@ fieldset[disabled] .btn-fb.active {
 .table-striped-col > tfoot > tr th:nth-of-type(even),
 .table-striped-col > thead > tr td:nth-of-type(even),
 .table-striped-col > tfoot > tr td:nth-of-type(even) {
-  background-color: #171717;
+  background-color: #1f1f1f;
 }
 .table-striped-col > tbody > tr:not(.active):not(.success):not(.info):not(.warning):not(.danger) th:nth-of-type(even),
 .table-striped-col > tbody > tr:not(.active):not(.success):not(.info):not(.warning):not(.danger) td:nth-of-type(even) {
